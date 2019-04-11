@@ -1,2 +1,29 @@
-ego = I
+egō = I
 tū = you
+karō = meat
+vino = wine
+mortis = death
+djous = day
+me djēm = my day
+
+
+
+Possessive pronouns
+
+Singular - Plural
+
+meos  |    nōs
+towos |    wōs
+sowos |    sowōs
+
+Accusative Pronouns (X gustum)
+
+Singular - Plural
+
+me     |   nōs
+tē     |   wōs
+se     |   sowōs
+
+Declensions:
+
+Nominative - +-nothing-
