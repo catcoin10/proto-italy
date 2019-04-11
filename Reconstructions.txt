@@ -1,0 +1,10 @@
+These are reconstructions into Proto-Italic based on the words in Latin and Spanish.
+
+the (el in Spanish, illum or ille in Latin, olle in Old Latin) -> ēlem
+
+
+Patterns:
+
+Meat (carne in Spanish, carō in Latin, karō in Proto-Italic) -- k is said less harshly in Latin, o changes to ne in Spanish and is also less harsh
+Year (año in Spanish, annus in Latin, atnos in Proto-Italic) -- tn in PI changes to nn in Latin. PI words tend to be more spaced.
+I (yo in Spanish, ego in Latin, egō in Proto-Italic) -- o is pronounced harder progressively.
